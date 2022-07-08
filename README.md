@@ -43,5 +43,5 @@
    <a href = "mailto:mylenanunesdealmeida112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mylena-almeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
-  <a href="https://mylenaalmd.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-af87ff?style=for-the-badge&logo=Github&logoColor=ffffff&link=calvitoria.github.io"></a> 
+  <a href="https://github.com/mylenaalmd" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-af87ff?style=for-the-badge&logo=Github&logoColor=ffffff&link=mylenaalmd.github.io"></a> 
 </div>
