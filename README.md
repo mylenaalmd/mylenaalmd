@@ -11,11 +11,13 @@
 
 <br>
 <div>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mylena&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats" width="450px"> 
-</p></div>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mylena&show_icons=true&hide_border=true" alt="Pramod's Github Stats" width="450px"> 
+<a href="https://github.com/mylenaalmd">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=mylenaalmd&show_icons=true&title_color=af87ff&bg_color=22272e&icon_color=0ba2be&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=false" />
+</a> 
+  
+<a href="https://github.com/mylenaalmd">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaalmd&bg_color=22272e&icon_color=0ba2be&title_color=af87ff&hide_border=true&layout=compact&theme=material-palenight" alt="calvitoria stats" />
+</a>  
 </p></div>
 <div diplay="flex" >
 <h5>Tenho conhecimento sobre:</h5>
