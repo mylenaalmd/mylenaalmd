@@ -18,7 +18,7 @@ Olá, seja bem vindo! Meu nome é Mylena Almeida. Sou estudante de desenvolvimen
 </a> 
   
 <a href="https://github.com/mylenaalmd">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaalmd&bg_color=22272e&icon_color=0ba2be&title_color=af87ff&hide_border=true&layout=compact&theme=material-palenight" alt="mylena stats" />
+  <img align="center" width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaalmd&layout=compact&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF"  alt="mylena stats" />
 </a>  
 </p></div>
 <div diplay="flex" >
