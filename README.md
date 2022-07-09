@@ -1,5 +1,7 @@
 <h2>Hey 👋, I'm Mylena!</h2>
 
+Olá, seja bem vindo! Meu nome é Mylena Almeida. Sou estudante de desenvolvimento web na Trybe :). Fique à vontade para conhecer meus repositórios e conversar comigo. Não deixe de ver meu portifolio e visitar meu linkedin!
+
 <a href="https://www.linkedin.com/in/mylenaalmd/">
   <img align="left" alt="mylena's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
