@@ -1,5 +1,9 @@
 <h1>Hey<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, welcome to my profile on Github!</h1>
 
+Web developer in training
+
+Studing Node.js
+
 ```JavaScript
 const aboutMe = {
   name: 'Mylena Almeida',
