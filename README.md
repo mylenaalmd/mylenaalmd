@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Mylena!</h2>
+<h2>Hey <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Mylena!</h2>
 
 Hello welcome! I'm a web development student at Trybe :). Feel free to browse my repositories and chat with me. Be sure to check out my portfolio and visit my linkedin!
 
@@ -9,7 +9,7 @@ Hello welcome! I'm a web development student at Trybe :). Feel free to browse my
 <br>
 
  👾 I'm a full stack web development student</br>
- 💻 I'm currently learning react</br>
+ 💻 I'm currently learning Node.js</br>
 
 <br>
 <div>
