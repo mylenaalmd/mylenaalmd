@@ -11,9 +11,10 @@ const aboutMe = {
   level: 'Junior',
   tools: ['HTML', 'CSS', 'JavaScript ES6+', 'React', 'Redux', 'RTL'],
   softSkills: [
-    'organization'
-    'group work'
+    'Organization'
+    'Adaptation'
     'Communication'
+    'learning'
   ]
 };
 
