@@ -1,16 +1,24 @@
-<h2>Hey <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Mylena!</h2>
-
-Hello welcome! I'm a web development student at Trybe :). Feel free to browse my repositories and chat with me. Be sure to check out my portfolio and visit my linkedin!
-
-<a href="https://www.linkedin.com/in/mylenaalmd/">
-  <img align="left" alt="mylena's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br>
+<h1>Hey<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, welcome to my profile on Github!</h1>
+<h3>Desenvolvedora Web em formação...<h3>
 <br>
 
- 👾 I'm a full stack web development student</br>
- 💻 I'm currently learning Node.js</br>
+```JavaScript
+const aboutMe = {
+  name: 'Mylena Almeida',
+  age: '19 years old';
+  level: 'Junior',
+  tools: ['HTML', 'CSS', 'JavaScript ES6+', 'React', 'Redux', 'RTL'],
+  softSkills: [
+    'organization'
+    'group work'
+    'Communication'
+  ]
+};
 
+function contatcMe() {
+  return 'Linkedin: https://www.linkedin.com/in/mylena-almeida';
+}
+```
 <br>
 <div>
 <a href="https://github.com/mylenaalmd">
