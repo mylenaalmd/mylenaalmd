@@ -22,7 +22,7 @@ function contatcMe() {
 ```
 <br>
 <div diplay="flex" >
-<h5>I have knowledge about:</h5>
+<h5> Skills </h5>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="32px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="32px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javaScript" width="32px">
@@ -43,7 +43,11 @@ function contatcMe() {
   <img align="center" width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaalmd&layout=compact&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF"  alt="mylena stats" />
 </a>  
 </p></div>
-   
+
+<h6>>>> Adoro a ideia de construir meu futuro num segmento que me </br>
+  permita criar, inventar e inovar, e é por esse poder que a tecnologia </br>
+  tem que optei em seguir meu caminho nessa área.</br></h6>
+
 <h6>>>> If you would like to discuss these things, you can send me an email or DM me on Linkedin. I'm looking forward to connecting with you :) @</h6>
    
    <a href = "mailto:mylenanunesdealmeida112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
