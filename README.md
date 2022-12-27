@@ -1,8 +1,7 @@
 <h1>Hey<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, welcome to my profile on Github!</h1>
 
-Web developer in training
+I'm a Full-Stack Engineer from Brazil. Lately, I'm making some cool applications with React and Node.js. 
 
-Studing Node.js
 
 ```JavaScript
 const aboutMe = {
@@ -51,7 +50,7 @@ function contatcMe() {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="javaScript" width="32px">
    </div>
    
-   <h3>>>> You can find me @</h3>
+   <h3>>>>If you would like to discuss these things, you can send me an email or DM me on Linkedin. I'm looking forward to connecting with you :) @</h3>
    
    <a href = "mailto:mylenanunesdealmeida112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mylena-almeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
