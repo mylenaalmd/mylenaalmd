@@ -1,4 +1,4 @@
-<h1>Hey<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, welcome to my profile on Github!</h1>
+<h1>Hey, welcome to my profile on Github!<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"></h1>
 
 I'm a Full-Stack Engineer from Brazil. Lately, I'm making some cool applications with React and Node.js. 
 
