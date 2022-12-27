@@ -55,3 +55,4 @@ function contatcMe() {
   </a>
   <a href="https://github.com/mylenaalmd" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-af87ff?style=for-the-badge&logo=Github&logoColor=ffffff&link=mylenaalmd.github.io"></a> 
 </div>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
