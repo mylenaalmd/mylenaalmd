@@ -44,9 +44,9 @@ function contatcMe() {
 </a>  
 </p></div>
 
-<h6>>>> Adoro a ideia de construir meu futuro num segmento que me </br>
-  permita criar, inventar e inovar, e é por esse poder que a tecnologia </br>
-  tem que optei em seguir meu caminho nessa área.</br></h6>
+<h6>>>> I love the idea of building my future in a segment that
+allows you to create, invent and innovate, and it is because of this power that technology
+I have chosen to follow my path in this area.</br></h6>
 
 <h6>>>> If you would like to discuss these things, you can send me an email or DM me on Linkedin. I'm looking forward to connecting with you :) @</h6>
    
