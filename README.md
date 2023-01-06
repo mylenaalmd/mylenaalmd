@@ -48,6 +48,8 @@ function contatcMe() {
 allows you to create, invent and innovate, and it is because of this power that technology</br>
 I have chosen to follow my path in this area.</br></h6>
 
+<h5>>>> Currently, I work as a student at Trybe, a programming school where we learn and put into practice several tools for full-stack WEB development.><h5>
+
 <h6>>>> If you would like to discuss these things, you can send me an email or DM me on Linkedin. I'm looking forward to connecting with you :) @</h6>
    
    <a href = "mailto:mylenanunesdealmeida112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
