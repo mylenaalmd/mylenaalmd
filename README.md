@@ -37,11 +37,8 @@ function contatcMe() {
    </br>
 <div>
 <a href="https://github.com/mylenaalmd">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=mylenaalmd&show_icons=true&title_color=af87ff&bg_color=22272e&icon_color=0ba2be&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=false" />
-</a> 
-  
-<a href="https://github.com/mylenaalmd">
-  <img align="center" width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaalmd&layout=compact&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF"  alt="mylena stats" />
+   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=mylenaalmd&hide=stars&count_private=true&show_icons=true&theme=dracula" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaalmd&layout=compact&theme=dracula" />
 </a>  
 </p></div>
 
