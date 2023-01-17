@@ -12,7 +12,8 @@ const aboutMe = {
     'Organization'
     'Adaptation'
     'Communication'
-    'learning'
+    'ethic'
+    'constant learning'
   ]
 };
 
