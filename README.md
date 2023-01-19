@@ -21,6 +21,7 @@ function contatcMe() {
   return 'Linkedin: https://www.linkedin.com/in/mylena-almeida';
 }
 ```
+        
 <br>
 <div diplay="flex" >
 <h5> Skills </h5>
@@ -37,7 +38,7 @@ function contatcMe() {
    </br>
 <div>
 <a href="https://github.com/mylenaalmd">
-   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=mylenaalmd&hide=stars&count_private=true&show_icons=true&theme=dracula" />
+   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=mylenaalmd&theme=dracula" />
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaalmd&layout=compact&theme=dracula" />
 </a>  
 </p></div>
