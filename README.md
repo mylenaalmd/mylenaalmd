@@ -5,9 +5,9 @@ I'm a Full-Stack Engineer from Brazil. Lately, I'm making some cool applications
 ```JavaScript
 const aboutMe = {
   name: 'Mylena Almeida',
-  age: '19 years old';
+  age: '20 years old';
   level: 'Junior',
-  tools: ['HTML', 'CSS', 'JavaScript ES6+', 'React', 'Redux', 'RTL'],
+  tools: ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'SQL', 'Python'],
   softSkills: [
     'Organization'
     'Adaptation'
